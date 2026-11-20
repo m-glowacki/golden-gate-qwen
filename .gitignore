@@ -1,0 +1,18 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.pt
+*.pth
+*.npz
+
+# Outputs
+runs/
+fisher_geometry/
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
